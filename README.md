@@ -4,7 +4,8 @@ Programing Languages :
 * JAVA  
 * C  
 * C++  
-* Pyton  
-Operating System:
-*linux
-*windows
+* Python   
+  
+Operating System:  
+* linux  
+* windows  
