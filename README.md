@@ -7,5 +7,5 @@ Programing Languages :
 * Python   
   
 Operating System:  
-* linux  
-* windows  
+* Linux  
+* Windows  
