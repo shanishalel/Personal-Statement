@@ -4,8 +4,13 @@ Programing Languages :
 * JAVA  
 * C  
 * C++  
-* Python   
+* Python 
+* PHP  
   
 Operating System:  
 * Linux  
 * Windows  
+
+Others:
+* Machine Learning
+* Image Processing
