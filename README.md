@@ -5,7 +5,9 @@ Programing Languages :
 * C  
 * C++  
 * Python 
-* PHP  
+* PHP 
+*JS
+*HTML & CSS 
   
 Operating System:  
 * Linux  
@@ -14,3 +16,4 @@ Operating System:
 Others:
 * Machine Learning
 * Image Processing
+
